@@ -1,4 +1,4 @@
-# OOP-Practice
+# OOP-Practice-JS
 
 A repo to recap and practice on OOP
 
